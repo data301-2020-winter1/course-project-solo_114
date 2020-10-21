@@ -1,0 +1,1 @@
+Data for COSC 301 Project within this folder in an excel notebook. There is an unchanged version of the data in raw and there will be a cleaned up version in processed later on.
