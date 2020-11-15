@@ -1,14 +1,12 @@
 [![Work in Repl.it](https://classroom.github.com/assets/work-in-replit-14baed9a392b3a25080506f3b7b6d57f295ec2978f6f33ec97e36a161684cbe9.svg)](https://classroom.github.com/online_ide?assignment_repo_id=312105&assignment_repo_type=GroupAssignmentRepo)
 # Solo Group 114: American Medical Costs and Lifestyle
 
+## ***Note: Analysis and EDA Contained within AnalysisMarkdown.md***
+
 ## Research Questions
 
 1. What is the determining factor in medical costs? (Between Age, BMI, number of Children and whether or not the individual smokes)
-2. What effect does smoking, age and region of the US have on Body Mass Index? How strong of a correlation, if any? 
-
-## Milestones
-
-Details for Milestone are available on Canvas (left sidebar, Course Project) or [here](https://firas.moosvi.com/courses/data301/project/milestone01.html).
+2. What effect does smoking and age on Body Mass Index? Are either one the deciding factor in an individual's BMI?
 
 ## Describe your topic/interest in about 150-200 words
 
