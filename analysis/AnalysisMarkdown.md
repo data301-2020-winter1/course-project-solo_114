@@ -17,7 +17,7 @@ First by using '.describe' on the wrangled dataset I got general information on 
 
 By using .values_count() on the Smoker column I found that 1064 were not smokers while 274 were smokers
 
-Next I wanted to see how the attributes Age, Children, BMI and Smoker relate to changes in Charges, so for the quantitative attributes I used a line plot and for the qualitative Smoker attribute I just put the Smoker's and Non-Smoker's charges on a violin plot.
+
 
 ![](photos/EDA.png)
 
