@@ -3,6 +3,8 @@
 
 ## ***Note: Analysis and EDA Contained within AnalysisNotebook.ipynb***
 
+- Link to presentation -> https://www.youtube.com/watch?v=5mxrQfTat2o
+
 ## Research Questions
 
 1. What is the determining factor in medical costs? (Between Age, BMI, number of Children and whether or not the individual smokes)
